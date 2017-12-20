@@ -41,3 +41,7 @@ a, a:hover {
 .page-header{
     border-bottom: 5px solid #BCBBBB;
     }
+
+#nameInCapitalId{
+    min-width: 100px;
+    }
